@@ -1,6 +1,8 @@
 # AI Agent Roadmap
 
-Explore the latest AI Agent Framework! 🎆
+Explore the latest AI Agent Framework、Workflow and Vector Databases! 🎆
+
+## AI Agent
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Code  |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -69,3 +71,11 @@ Explore the latest AI Agent Framework! 🎆
 | [Vanna](https://vanna.ai/)                                                | Vanna helps you generate and run accurate SQL for your database using LLMs via Retrieval-Augmented Generation.                                                     | [GitHub](https://github.com/vanna-ai/vanna)              |                                                   |
 | [XAgent](https://blog.x-agent.net/)                                       | An Autonomous Agent for Complex Task Solving.                                                                                                                      | [GitHub](https://github.com/OpenBMB/XAgent)              |                                                   |
 | [X-Force IDE](https://ide.x-force.ai/)                                    | X-Force IDE is a low-code, agent-as-a-service UI framework.                                                                                                        | [GitHub](https://github.com/xforceai/ide)                |                                                   |
+
+
+## Vector Databases
+
+| Source                                                                                      | Description                                                                                                                                                                                    |  Code  |   Paper   |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [Adala](https://humansignal.github.io/Adala/)                             | Adala is an Autonomous DAta (Labeling) Agent framework.                                                                                                            | [GitHub](https://github.com/HumanSignal/Adala)                    |                                                   |
+
