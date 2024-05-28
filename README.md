@@ -1,8 +1,8 @@
 # AI Agent Roadmap
 
-Explore the latest AI Agent Framework、Workflow and Vector Databases! 🎆
+Explore the latest AI Agent Framework and Vector Databases! 🎆
 
-## AI Agent
+## AI Agent Framework
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Code  |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -73,9 +73,16 @@ Explore the latest AI Agent Framework、Workflow and Vector Databases! 🎆
 | [X-Force IDE](https://ide.x-force.ai/)                                    | X-Force IDE is a low-code, agent-as-a-service UI framework.                                                                                                        | [GitHub](https://github.com/xforceai/ide)                |                                                   |
 
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
 ## Vector Databases
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Code  |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [Chroma](https://www.trychroma.com/)                             | Chroma - the AI-native open-source embedding database.                                                                                                            | [GitHub](https://github.com/chroma-core/chroma)                    |                                                   |
+| [Milvus](https://milvus.io/)                                     | A cloud-native vector database, storage for next generation AI applications.                                                                                                            | [GitHub](https://github.com/milvus-io/milvus)                    |                                                   |
+
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
