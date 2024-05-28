@@ -2,7 +2,16 @@
 
 Explore the latest AI Agent Framework and Vector Databases! 🎆
 
-## AI Agent Framework
+## Table of Contents
+
+* [AI Agent Framework](#agent)
+* [Vector Databases](#db)
+
+
+## Project List
+
+
+###  <span id="agent">AI Agent Framework</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Code  |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -76,12 +85,13 @@ Explore the latest AI Agent Framework and Vector Databases! 🎆
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 
-## Vector Databases
+###  <span id="db">Vector Databases</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Code  |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-| [Chroma](https://www.trychroma.com/)                             | Chroma - the AI-native open-source embedding database.                                                                                                            | [GitHub](https://github.com/chroma-core/chroma)                    |                                                   |
-| [Milvus](https://milvus.io/)                                     | A cloud-native vector database, storage for next generation AI applications.                                                                                                            | [GitHub](https://github.com/milvus-io/milvus)                    |                                                   |
+| [Chroma](https://www.trychroma.com/)                             | Chroma - the AI-native open-source embedding database.                                                                                                                 | [GitHub](https://github.com/chroma-core/chroma)                    |                                                   |
+| [Milvus](https://milvus.io/)                                     | A cloud-native vector database, storage for next generation AI applications.                                                                                           | [GitHub](https://github.com/milvus-io/milvus)                    |                                                   |
+| [Weaviate](https://weaviate.io/)                                 | The AI-native database for a new generation of software.                                                                                         | [GitHub](https://github.com/weaviate/weaviate)                    |                                                   |
 
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
